@@ -6,7 +6,7 @@ The main reason this script was made — to have a clear visual confirmation of 
 
 ![Settings Window](screenshot_1.jpg)
 
-![This is what the addon looks like in action (red dot in the upper left corner)](screenshot_2.jpg)
+![This is what the addon looks like in action (red dot in the upper left corner)](screenshot_2.png)
 
 ## Features:
 - **Click-Through** — The overlay does not interfere with mouse clicks or window focus.
