@@ -4,7 +4,9 @@ A lightweight OBS Studio script that draws a status overlay (recording, pause, r
 
 The main reason this script was made — to have a clear visual confirmation of the recording status when working on a single monitor, without the need to switch back to the OBS window.
 
-![screenshot](screenshot.jpg)
+![Settings Window](screenshot.jpg)
+
+![This is what the addon looks like in action (red dot in the upper left corner)](screenshot.jpg)
 
 ## Features:
 - **Click-Through** — The overlay does not interfere with mouse clicks or window focus.
